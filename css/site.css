@@ -17,3 +17,8 @@ main {
 footer {
     flex-shrink: 1;
 }
+
+/* sticky sidebar */
+.h75 {
+    max-height: 74vh;
+}

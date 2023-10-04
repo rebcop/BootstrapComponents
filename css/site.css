@@ -28,6 +28,7 @@ footer {
     padding: 10rem 0;
 }
 
-.h-500-px {
+/* set height for shorts to show first row */
+.h-475-px {
     height: 475px;
 }

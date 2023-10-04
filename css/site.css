@@ -19,6 +19,15 @@ footer {
 }
 
 /* sticky sidebar */
-.h75 {
+.h-75-vh {
     max-height: 74vh;
+}
+
+/* Placeholder Image Padding */
+.padding-5 {
+    padding: 10rem 0;
+}
+
+.h-500-px {
+    height: 475px;
 }
